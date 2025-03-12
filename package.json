@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.32.2",
+    "@fontsource/istok-web": "^5.2.5",
     "astro": "^5.1.5",
-    "sharp": "^0.32.5"
+    "sharp": "^0.32.5",
+    "starlight-theme-flexoki": "^0.1.0"
   }
 }
